@@ -39,8 +39,6 @@ Soy un desarrollador web full stack con experiencia en Angular, Spring y PHP. Me
 📫 **Contacto**
 
 - 📧 riber998@gmail.com  
-- 📱 +34 686 73 35 44  
 - 💼 [LinkedIn](https://www.linkedin.com/in/martin-riera-bernardo-b26026257/)  
-- 🐙 [GitHub](https://github.com/MdRIERA)
 
----
+
