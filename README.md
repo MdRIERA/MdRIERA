@@ -41,6 +41,6 @@ Soy un desarrollador web full stack con experiencia en Angular, Spring y PHP. Me
 
 Aquí puedes fijar tus repos más relevantes, por ejemplo:
 
-- [Busca a tu amigo](https://github.com/MdRIERA/weather-app)
+- [Aplicación del tiempo](https://github.com/MdRIERA/weather-app)
 
 
