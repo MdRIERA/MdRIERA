@@ -19,10 +19,6 @@ Soy un desarrollador web full stack con experiencia en Angular, Spring y PHP. Me
   _Abril 2024 - Junio 2024_  
   Resolución de bugs, scraping con Python, optimización de backends con Spring, manejo de bases de datos SQL.
 
-- 🐾 **Aplicación “Busca a tu amigo”**  
-  _Marzo 2024 - Junio 2024_  
-  Proyecto de fin de ciclo. Aplicación web desarrollada con Angular y PHP, orientada a ayudar en la búsqueda de mascotas perdidas. Base de datos: MySQL.
-
 📚 **Formación**
 
 - 🎓 Técnico Superior en DAM (2024 - actual)  
@@ -39,6 +35,12 @@ Soy un desarrollador web full stack con experiencia en Angular, Spring y PHP. Me
 📫 **Contacto**
 
 - 📧 riber998@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/martin-riera-bernardo-b26026257/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/martin-riera-bernardo-b26026257/)
+
+⭐ **Repos destacados**
+
+Aquí puedes fijar tus repos más relevantes, por ejemplo:
+
+- [Busca a tu amigo](https://github.com/MdRIERA/weather-app)
 
 
