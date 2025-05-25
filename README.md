@@ -58,4 +58,3 @@ Soy un desarrollador web Full Stack con experiencia en Angular, Spring y PHP. Me
 
 - [Weather App - Aplicación del tiempo](https://github.com/MdRIERA/weather-app)
 
-> 💡 Puedes añadir más enlaces aquí a tus proyectos destacados cuando los vayas subiendo.
